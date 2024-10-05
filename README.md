@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meed0ff&show_icons=true&theme=dark)](https://github.com/meed0ff)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meed0ff&show_icons=true&theme=tokyonight)](https://github.com/meed0ff)
 <!--
 **meed0ff/meed0ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
