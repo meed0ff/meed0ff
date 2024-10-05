@@ -4,11 +4,6 @@
 <a href="https://github.com/meed0ff">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meed0ff&layout=compact&langs_count=8&card_width=300&theme=tokyonight&show_icons=true&hide_border=true" />
 </a>
-
-## About me
-I specialize in working with the React framework, with experience working with the ShadCN, Tailwind CSS, DaisyUI, and Iconify libraries.
-
-## Social links
 <a href="tg://resolve?domain=meed0ff">
   Telegram
   <svg xmlns="http://www.w3.org/2000/svg" width="3rem" height="2em" viewBox="0 0 24 24">
@@ -30,6 +25,12 @@ I specialize in working with the React framework, with experience working with t
     </g>
   </svg>
 </a>
+
+## About me
+I specialize in working with the React framework, with experience working with the ShadCN, Tailwind CSS, DaisyUI, and Iconify libraries.
+
+## Social links
+
 
 <!--
 [![Meed0ff's GitHub stats](https://github-readme-stats.vercel.app/api?username=meed0ff&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/meed0ff)
