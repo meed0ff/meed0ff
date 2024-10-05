@@ -1,8 +1,15 @@
 <a href="https://github.com/meed0ff">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meed0ff&show_icons=true&hide_border=true&bg_color=45,#242424,#000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meed0ff&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/meed0ff">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meed0ff&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meed0ff&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true&hide_border=true" />
+</a>
+<br />
+<a href="https://github.com/meed0ff">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meed0ff&show_icons=true&hide_border=true&theme=tokyonight&locale=ru" />
+</a>
+<a href="https://github.com/meed0ff">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meed0ff&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true&hide_border=true&locale=ru" />
 </a>
 
 <!--
